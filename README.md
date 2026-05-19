@@ -1,6 +1,8 @@
-# 🍕 Swiggy Sales Analysis — Python Data Analysis Project
+# 🍕 Swiggy Sales Analysis - Python Data Analysis Project
 
 An end-to-end data analysis project built using Python to analyze Swiggy food delivery sales data. The project focuses on customer ordering behavior, revenue trends, restaurant performance, and regional demand patterns using data cleaning, KPI analysis, and visualization techniques.
+
+🔗 [View LinkedIn Project Post](https://www.linkedin.com/posts/charmi-patel-771815242_dataanalytics-dataanalysis-dataanalyst-ugcPost-7462305696118857728-gJSv?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxG9wUBbNzooiZ3O29LUoPwn-wD8seWpN0)
 
 ---
 
